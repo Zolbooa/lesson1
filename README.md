@@ -3,10 +3,15 @@
 <html>
 <head>
 <title>Our Funky HTML Page</title>
-<meta name="description" content="Our first page">
-<meta name="keywords" content="html tutorial template">
+<meta name="description" content="first page">
+<meta name="keywords" content="html demo">
 </head>
 <body>
-Content goes here.
+list
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 </body>
 </html>
